@@ -1,0 +1,28 @@
+{
+  "name": "react-browserify-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "13.0.0",
+    "gulp": "3.9.0",
+    "gulp-concat": "2.6.0",
+    "gulp-connect": "2.3.1",
+    "gulp-sass": "2.1.1",
+    "gulp-watch": "4.3.5",
+    "reactify": "1.1.1",
+    "vinyl-source-stream": "1.1.0",
+    "watchify": "3.7.0"
+  },
+  "dependencies": {
+    "history": "1.17.0",
+    "react": "0.14.6",
+    "react-dom": "0.14.6",
+    "react-router": "1.0.3"
+  }
+}
